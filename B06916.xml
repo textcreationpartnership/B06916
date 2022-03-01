@@ -1,0 +1,470 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Time's] darling: or, [a love] worth liking; [...]men, abroad and at home, at bed and [...]mpany. [...]ell mee so; or, Loves tide.</title>
+            <author>H., C.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1600-1699?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06916</idno>
+            <idno type="STC">Interim Tract Supplement Guide BR f 821.04 B49[33]</idno>
+            <idno type="EEBO-CITATION">99887564</idno>
+            <idno type="PROQUEST">ocm99887564</idno>
+            <idno type="VID">182291</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06916)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182291)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A3:3[35])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>[Time's] darling: or, [a love] worth liking; [...]men, abroad and at home, at bed and [...]mpany. [...]ell mee so; or, Loves tide.</title>
+                  <author>H., C.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Francis on Snow-Hill.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>[16--?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: C.H.</note>
+                  <note>"Entered according to order."</note>
+                  <note>In verse.</note>
+                  <note>In two parts, printed side by side.</note>
+                  <note>Imperfect: torn, affecting title and first column of text.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:182291:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 11 -->
+            <head>
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Darling: OR, <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> worth liking;</head>
+            <argument>
+               <p>
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> men, abroad and at home, at bed and <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>mpany.</p>
+            </argument>
+            <opener>
+               <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> mee ſo; Or, Loves Tide.</hi>
+            </opener>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+               </l>
+            </lg>
+            <lg>
+               <l>If thy eſtate be took from thee</l>
+               <l>And thou art brought to poverty</l>
+               <l>By croſſes or afflictions ſtrong</l>
+               <l>Murmure nor grieve at any wrong</l>
+               <l>'Tis God that hath a hand o're all</l>
+               <l>To raiſe thee up, or let thee fall</l>
+               <l>Perhaps the Lord would try to finde</l>
+               <l>
+                  <hi>If thou hadſt Jobs contented mind.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>If honours or preferments great</l>
+               <l>Shall raiſe thee up on Iuſtice ſeat</l>
+               <l>Or that by place or dignity</l>
+               <l>A Iudge of Cauſes thou muſt be</l>
+               <l>Think that Heavens Court of Iuſtice high</l>
+               <l>O're all your actions caſts an eye</l>
+               <l>That mighty Iudge be ſure can finde</l>
+               <l>
+                  <hi>The ſecrets of your heart and mind.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>If that Gods Laws thou break <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>Or by oppreſſion wrong the poor</l>
+               <l>Or if of men thou ſtands in fear</l>
+               <l>To do what they will have thee heer</l>
+               <l>Or let the mighty bear the ſway</l>
+               <l>And turn the poor mans cauſe away</l>
+               <l>He that doth this be ſure will finde</l>
+               <l>
+                  <hi>A troubled diſcontented <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d.</hi>
+               </l>
+            </lg>
+            <div n="2" type="part">
+               <head>The ſecond Part</head>
+               <opener>to the ſame Tune.</opener>
+               <p>
+                  <figure/>
+               </p>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>IF otherwiſe thou ſéems to be</l>
+                  <l>A Iudge of right and equity,</l>
+                  <l>And will the poor mans cauſe defend</l>
+                  <l>As well as his that hath means to ſpend,</l>
+                  <l>And rig<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> the wro<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gs of fatherleſs:</l>
+                  <l>Like<gap reason="illegible" resp="#UOM" extent="3+ letters">
+                        <desc>•••…</desc>
+                     </gap> the wid<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>w in diſtreſs</l>
+                  <l>A reward in Heaven thou then ſhalt finde</l>
+                  <l>
+                     <hi>And on earth a ſweet contented minde.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>If thou art rich, thou poor mayeſt be;</l>
+                  <l>If thou art poor, wealth mayeſt thou ſee;</l>
+                  <l>If thou to honour riſe or fall,</l>
+                  <l>Be ſure thou be content with all;</l>
+                  <l>This world is ſubject ſtill to change,</l>
+                  <l>Then let not thine affections range,</l>
+                  <l>Nothing on earth be ſure thou'lt finde</l>
+                  <l>
+                     <hi>Compared to a contented minde.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>If God hath ſent thee children ſtore;</l>
+                  <l>And yet perhaps thou art but poor;</l>
+                  <l>Deſpair not, but contented be,</l>
+                  <l>He will provide for them and thee;</l>
+                  <l>To every mouth he bread will ſend,</l>
+                  <l>
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ill will ſtand the poor mans friend,</l>
+                  <l>Relief from him thou ſure ſhalt finde,</l>
+                  <l>
+                     <hi>If thou haſt a contented mind.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>What if this world doth frown on thee,</l>
+                  <l>For thy faith and fidelity,</l>
+                  <l>Or that thou béeſt in priſon caſt,</l>
+                  <l>The Lord may bring thée out at laſt;</l>
+                  <l>If not thou hadſt better there to dye</l>
+                  <l>Than from the true Religion fly:</l>
+                  <l>Kéep but thy faith, and thou ſhalt finde</l>
+                  <l>
+                     <hi>In priſon a ſweet contented minde.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>If that thy conſcience tells to thee</l>
+                  <l>Thy cauſe is juſt, be rul'd by me,</l>
+                  <l>Let not the threats of mighty men</l>
+                  <l>Take thy good conſcience from thee then</l>
+                  <l>
+                     <gap reason="illegible" resp="#UOM" extent="2+ letters">
+                        <desc>••…</desc>
+                     </gap>ey of thy body ſhall have power,</l>
+                  <l>
+                     <gap reason="illegible" resp="#UOM" extent="2+ letters">
+                        <desc>••…</desc>
+                     </gap>ure thy ſoule they can't devour</l>
+                  <l>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n a quiet conſcience thou ſhalt finde</l>
+                  <l>
+                     <hi>
+                        <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ontinual feaſts to feed thy minde.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>If that thou think a God there be,</l>
+                  <l>That rules the Heaven and Earth we ſée,</l>
+                  <l>Then think he hath a hand o're all,</l>
+                  <l>To raiſe men up, or let them fall:</l>
+                  <l>All Rulers great, by Sea and Land</l>
+                  <l>Muſt ſtoop, if once he gives command</l>
+                  <l>He muſt protect you, elſe you'l finde</l>
+                  <l>
+                     <hi>A ſad and diſcontented minde.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Content is a Iewel, and a Feaſt,</l>
+                  <l>Content is a rich and welcome Gueſt,</l>
+                  <l>Content is of ſuch high renown,</l>
+                  <l>'Tis better than an earthly Crown,</l>
+                  <l>Content is ſuch a precious ſtore</l>
+                  <l>That he that hath it néeds no more:</l>
+                  <l>If you can gaine it, you ſhall finde</l>
+                  <l>
+                     <hi>No joyes like a contented minde.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> content <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ou néeds will gaine</l>
+                  <l>Ile tell you where it doth remain</l>
+                  <l>Inquire where Conſcience kéeps</l>
+                  <l>And where plaine dealing doth re<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </l>
+                  <l>Then truth will lead you by the ha<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </l>
+                  <l>And bring you where Content doth <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </l>
+                  <l>Imbrace him then and you ſhall finde</l>
+                  <l>
+                     <hi>No wealth like a contented minde.</hi>
+                  </l>
+               </lg>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, Printed for Francis Grove on Snow-Hill. Entred according to Order.</p>
+            <trailer>FINIS C. H.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
